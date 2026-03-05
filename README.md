@@ -1,6 +1,6 @@
 ## Eu sou o Wilson Dias Debus
 
-- 📚 Acadêmico do curso de Ciência da Computação na Universidade Franciscana, bolsista integral pelo Programa Universidade para Todos (ProUni).
+- 📚 Acadêmico do curso de Ciência da Computação na Universidade Franciscana desde 2025, bolsista integral pelo Programa Universidade para Todos (ProUni).
 - 💻 Estudo C, C++, Java, Python, HTML, CSS e JavaScript.
 
 <div style="display: inline_block"><br>
